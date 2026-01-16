@@ -4,7 +4,7 @@
     <strong></strong>
   </p>
   
-  #### contributor
+  #### Contributor
   <p>
     <a href="https://github.com/aceptaslims">Acep Taslim Suherman (55201240)</a>
   </p>
@@ -40,11 +40,11 @@ Merupakan sebuah web yang dibangun sebagai katalog buku digital yang dimana angg
 ├── assets/
 │   ├── images/
 │   ├── css/
-│   └── css
+│   └── js/
 ├── config/
-│   ├── connection.php/
-│   └── database.sql/
-│   └── database.sql/
+│   ├── connection.php
+│   └── database.sql
+│   └── database.sql
 ├── modules/
 │   ├── admin/
 │   ├── auth/
