@@ -12,7 +12,7 @@
     <a href="https://github.com/egi616">Egi Jaelani Febriansyah (5520124039)</a>
   </p>
   <p>
-    <a href="https://github.com/rafiapart">Rafli Abdullah (55201240)</a>
+    <a href="https://github.com/rafiapart">Muhammad Rafi Abdullah (5520124052)</a>
   </p>
 
 </div>
